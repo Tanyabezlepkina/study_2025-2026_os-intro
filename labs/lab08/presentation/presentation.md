@@ -1,14 +1,30 @@
-
 ---
-title: Лабораторная работа №8
-subtitle: Архитектура компьютеров
-author: Безлепкина Т.И.
-institute: Российский университет дружбы народов, Москва, Россия
-date: 4 апреля 2026
+## Front matter
 lang: ru-RU
+title: Лабораторная работа №6
+subtitle: Архитектура компьютеров
+author:
+  - Безлепкина Т.И.
+institute:
+  - Российский университет дружбы народов, Москва, Россия
+date: 06 марта 2026
+
+## i18n babel
+babel-lang: russian
+babel-otherlangs: english
+
+## Fonts
 mainfont: Liberation Serif
 sansfont: Liberation Sans
 monofont: Liberation Mono
+
+## Formatting pdf
+toc: false
+toc-title: Содержание
+slide_level: 2
+aspectratio: 169
+section-titles: true
+theme: default
 ---
 
 # Информация
